@@ -4,7 +4,6 @@ DecodeBot Assistant is a rule-based AI chatbot developed using Python and Tkinte
 
 The chatbot provides interactive conversations through predefined rules and commands while maintaining a simple and user-friendly graphical interface.
 
----
 
 ## Features
 
@@ -41,7 +40,6 @@ The chatbot provides interactive conversations through predefined rules and comm
 - Sound notifications
 - Keyboard Enter support
 
----
 
 ## Technologies Used
 
@@ -50,12 +48,11 @@ The chatbot provides interactive conversations through predefined rules and comm
 - Winsound
 - Datetime
 
----
 
 ## Project Structure
 
 ```text
-DecodeBot-Assistant/
+Rule_based_ai_chatbot/
 │
 ├── chatbot.py
 ├── README.md
@@ -64,7 +61,6 @@ DecodeBot-Assistant/
 └── screenshots/
 ```
 
----
 
 ## Available Commands
 
@@ -118,7 +114,6 @@ DecodeBot-Assistant/
 - commands
 - bye
 
----
 
 ## How It Works
 
@@ -135,7 +130,6 @@ elif msg == "time":
 
 The chatbot does not use machine learning models or external APIs.
 
----
 
 ## Running the Project
 
@@ -156,8 +150,6 @@ Run the application:
 ```bash
 python chatbot.py
 ```
-
----
 
 ## Future Improvements
 
