@@ -153,8 +153,6 @@ python chatbot.py
 
 ## Screenshots
 
-## Screenshots
-
 <p align="center">
   <img src="outputs/o1.png" width="300">
   <img src="outputs/o2.png" width="300">
