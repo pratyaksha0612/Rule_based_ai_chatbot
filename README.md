@@ -58,7 +58,7 @@ Rule_based_ai_chatbot/
 ├── README.md
 ├── requirements.txt
 ├── .gitignore
-└── screenshots/
+└── outputs/
 ```
 
 
@@ -150,6 +150,15 @@ Run the application:
 ```bash
 python chatbot.py
 ```
+
+## Screenshots
+
+![Screenshot 1](outputs/o1.png)
+![Screenshot 2](outputs/o2.png)
+![Screenshot 3](outputs/o3.png)
+![Screenshot 4](outputs/o4.png)
+![Screenshot 5](outputs/o5.png)
+![Screenshot 6](outputs/o6.png)
 
 ## Future Improvements
 
