@@ -153,12 +153,22 @@ python chatbot.py
 
 ## Screenshots
 
-![Screenshot 1](outputs/o1.png)
-![Screenshot 2](outputs/o2.png)
-![Screenshot 3](outputs/o3.png)
-![Screenshot 4](outputs/o4.png)
-![Screenshot 5](outputs/o5.png)
-![Screenshot 6](outputs/o6.png)
+## Screenshots
+
+<p align="center">
+  <img src="outputs/o1.png" width="300">
+  <img src="outputs/o2.png" width="300">
+</p>
+
+<p align="center">
+  <img src="outputs/o3.png" width="300">
+  <img src="outputs/o4.png" width="300">
+</p>
+
+<p align="center">
+  <img src="outputs/o5.png" width="300">
+  <img src="outputs/o6.png" width="300">
+</p>
 
 ## Future Improvements
 
