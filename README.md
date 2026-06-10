@@ -136,13 +136,13 @@ The chatbot does not use machine learning models or external APIs.
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/DecodeBot-Assistant.git
+git clone https://github.com/pratyaksha0612/Rule_based_ai_chatbot.git
 ```
 
 Navigate to the project folder:
 
 ```bash
-cd DecodeBot-Assistant
+cd Rule_based_ai_chatbot
 ```
 
 Run the application:
